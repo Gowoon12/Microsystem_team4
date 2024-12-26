@@ -14,8 +14,9 @@
 
 + The detailed system setup is shown in the figure below. 
 
-<img src="SystemSetup.jpg" height="400" />
-<img src="SystemSetup2.jpg" height="400" />
+<img src="SystemSetup.jpg" width="500" />
+
+<img src="SystemSetup2.jpg" width="500" />
 
 ## Prerequirement
 
