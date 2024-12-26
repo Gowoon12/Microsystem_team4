@@ -14,9 +14,8 @@
 
 + The detailed system setup is shown in the figure below. 
 
-![System Diagram](SystemSetup.jpg)
-
-![Arduino Setup](SystemSetup2.jpg)
+<img src="SystemSetup.jpg" height="400" />
+<img src="SystemSetup2.jpg" height="400" />
 
 ## Prerequirement
 
