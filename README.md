@@ -4,11 +4,12 @@ This project is part of the wireless system-related code from the 2024 Fall Seme
 Team 4 : Liu Ke, Jeong Gowoon
 
 System Environment 
-
+![System Diagram](SystemSetup.jpg)
 
 
 
 # MaxonMotorPython
+
 
 This is a Python code that allows Mexson motors to be used as CAN communication methods.
 
