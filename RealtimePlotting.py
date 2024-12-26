@@ -1,3 +1,6 @@
+#  This code is for real-time plotting in the wireless system of the project in the Design and Fabrication of Microsystem course, 2024 Fall Semester, Team 4.
+# 2024.12.21. Jeong Gowoon
+
 # import sys
 # import os
 # import serial
